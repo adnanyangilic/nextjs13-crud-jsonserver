@@ -8,7 +8,7 @@ First install the project, then run the db server and after that run the develop
 # to install project's node_modules
 npm install
 #-------------
-# to run json-server in another cmd (see scripts section in package.json)
+# to run json-server in another cmd (see scripts section in package.json  "db": "json-server -p 5000 -w db.json")
 npm run db
 #-------------
 # to run project in development mode
