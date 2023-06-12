@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Huawei Phone",
+      "price": 29900
+    },
+    {
+      "title": "Apple Watch",
+      "price": 7450,
+      "id": 5
+    },
+    {
+      "title": "Philips Wide TV",
+      "price": 24900,
+      "id": 6
+    },
+    {
+      "title": "Playstation",
+      "price": 14000,
+      "id": 7
+    },
+    {
+      "title": "Acer Notebook Computer",
+      "price": "34900",
+      "id": 8
+    }
+  ]
+}
