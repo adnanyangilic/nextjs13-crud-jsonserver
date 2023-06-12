@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm install
+#to run json-server in another cmd (see scripts section in package.json)
+npm run db
 npm run dev
 # or
 yarn dev
