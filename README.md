@@ -1,3 +1,4 @@
+![next13crud](https://github.com/adnanyangilic/nextjs13-crud-jsonserver/assets/65245974/4c615863-1e06-4071-8e3a-17e47c79eb38)
 
 
 ## Getting Started
