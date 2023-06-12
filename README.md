@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First install the project, then run the db server and after that run the development server:
 
 ```bash
 # to install project's node_modules
