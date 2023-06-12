@@ -8,11 +8,9 @@ First, run the development server:
 npm install
 # to run json-server in another cmd (see scripts section in package.json)
 npm run db
+# to run project in development mode
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
